@@ -4,7 +4,7 @@ Xem ghi chú tóm tắt các bài học: [LINK](https://github.com/STEAMforVietn
 
 ## Miêu tả dự án
 
-<TODO: điền thêm thông tin dự án cuối khoá của bạn khi nộp bài>
+<My name is Phuong and this is my final project>
 
 ## Đường dẫn đến phiên bản cuối mỗi bài học
 
